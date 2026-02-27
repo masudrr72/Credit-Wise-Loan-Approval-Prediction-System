@@ -8,8 +8,11 @@ This project builds and compares multiple machine learning models to predict loa
 🎯 Objective
 
 🔹Compare different classification algorithms
+
 🔹Evaluate models using appropriate performance metrics
+
 🔹Understand trade-offs between Precision, Recall, and Accuracy
+
 🔹Analyze business impact in financial risk prediction
 
 📂 Dataset Information
@@ -19,8 +22,11 @@ Applicant Income, Loan Amount, Credit History, Employment Status and Other relev
 Target Variable: Loan Status (Approved / Not Approved)
 
 ⚙️ Machine Learning Models Implemented
+
 🔹Logistic Regression
+
 🔹Naive Bayes
+
 🔹KNN
 
 📈 Key Insights
