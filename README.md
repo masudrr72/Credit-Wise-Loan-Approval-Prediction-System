@@ -30,20 +30,32 @@ Target Variable: Loan Status (Approved / Not Approved)
 🔹KNN
 
 📈 Key Insights
+
 🔹Logistic Regression achieved the highest overall accuracy (87.5%).
+
 🔹Naive Bayes achieved slightly higher precision (0.8036).
+
 🔹In loan approval systems, precision is important because approving a risky applicant (False Positive) may lead to financial loss.
+
 🔹Feature engineering does not always guarantee improvement — proper validation is essential.
+
 🔹Model evaluation should align with business objectives, not just accuracy.
 
+
 🧠 What I Learned
+
 -How to compare classification models properly
+
 -Importance of confusion matrix interpretation
+
 -Trade-offs between Precision and Recall
+
 -Practical implementation of financial risk prediction
+
 -Impact of feature engineering on different algorithms
 
 🙏 Acknowledgment
+
 This project was completed with guidance and foundational support from Apna College and my respected mentor.
 
 👨‍💻 Author
